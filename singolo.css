@@ -52,10 +52,6 @@ body{
 
 .header__navigation{
     display: flex;
-    /* justify-content: space-between;
-    align-items: line;
-    align-content: space-between; */
-    /* width: 100%; */
 }
 
 .logo {
@@ -182,24 +178,16 @@ body{
 }
 
 .services__subtitle {
-    /* margin-top: -5px;
-    margin-bottom: 43px;
-    font-size: 1.8rem;
-    font-weight: 300;
-    color: #767e9e;
-    line-height: 30px;
-    text-align: justify;
-    letter-spacing: -.35px; */
     width: 940px;
-height: 57px;
-font-size: 18px;
-line-height: 30px;
-color: #767e9e;
-font-weight: 300;
-text-align: left;
-font-family: 'Lato Regular',Verdana, sans-serif;
-margin-top: -5px;
-letter-spacing: -0.18px;
+    height: 57px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #767e9e;
+    font-weight: 300;
+    text-align: left;
+    font-family: 'Lato Regular',Verdana, sans-serif;
+    margin-top: -5px;
+    letter-spacing: -0.18px;
 }
 
 .layout-3-column {
